@@ -19,7 +19,7 @@ Sistema de gestão de reservas de voos com interface gráfica desenvolvido em Ja
 
 ## Estrutura
 - 30 assentos por voo (6 executivos + 24 econômicos)
-- Validação de NIF português
+- Validação de NIF PT
 - Sistema de preços dinâmico
 
 
@@ -29,8 +29,8 @@ javac -d . src/*.java
 java Main
 ```
 
-
 ## Licença
 GNU v3.0
+
 
 
