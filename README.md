@@ -25,10 +25,11 @@ Sistema de gestão de reservas de voos com interface gráfica desenvolvido em Ja
 
 ## Execução
 ```bash
-javac -d . src/*.java
-java Main
+Compilação: javac -d . src/*.java
+Run: java Main
 ```
 
 
 ## Licença
 GNU v3.0
+
